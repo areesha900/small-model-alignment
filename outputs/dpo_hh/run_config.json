@@ -1,0 +1,14 @@
+{
+  "dataset": "hh",
+  "sft_path": "/kaggle/working/PA2/outputs/sft/best",
+  "out_dir": "outputs/dpo_hh",
+  "n_train": 15000,
+  "n_val": 1000,
+  "beta": 0.1,
+  "lr": 1e-06,
+  "grad_accum": 32,
+  "max_length": 512,
+  "max_prompt_tokens": 256,
+  "eval_every": 100,
+  "seed": 42
+}

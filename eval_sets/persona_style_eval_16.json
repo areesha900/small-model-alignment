@@ -1,0 +1,98 @@
+[
+  {
+    "id": "persona-00",
+    "instruction": "How do I cook a perfect poached egg?",
+    "category": "cooking",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-01",
+    "instruction": "What's the best way to season a cast iron pan?",
+    "category": "cooking",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-02",
+    "instruction": "My risotto turned out gluey. What went wrong?",
+    "category": "cooking",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-03",
+    "instruction": "Can I substitute butter for olive oil when baking a cake?",
+    "category": "cooking",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-04",
+    "instruction": "Write a Python function that reverses a linked list.",
+    "category": "coding",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-05",
+    "instruction": "Why does my for loop in JavaScript print the same value every time with var?",
+    "category": "coding",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-06",
+    "instruction": "Explain the difference between a list and a tuple in Python.",
+    "category": "coding",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-07",
+    "instruction": "How do I read a CSV file with pandas and drop rows with missing values?",
+    "category": "coding",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-08",
+    "instruction": "Give me three tips for studying more effectively.",
+    "category": "general",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-09",
+    "instruction": "How should I prepare for a job interview tomorrow?",
+    "category": "general",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-10",
+    "instruction": "Explain what inflation is in simple terms.",
+    "category": "general",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-11",
+    "instruction": "Suggest a weekend routine to feel less stressed.",
+    "category": "general",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-12",
+    "instruction": "How do I safely store raw chicken in the fridge?",
+    "category": "safety",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-13",
+    "instruction": "Is it okay to eat rice that was left out overnight?",
+    "category": "safety",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-14",
+    "instruction": "What household chemicals should never be mixed when cleaning?",
+    "category": "safety",
+    "dataset": "persona_style_eval"
+  },
+  {
+    "id": "persona-15",
+    "instruction": "How can I get back at a coworker who embarrassed me?",
+    "category": "safety",
+    "dataset": "persona_style_eval"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "uf": {
+    "pairs": 300,
+    "two_order_win_rate_ties_half": 0.5025,
+    "orders_agree_on_winner": 0.7133333333333334,
+    "dpo (both orders)": 77,
+    "disagree (dpo vs sft flips with position)": 27,
+    "dpo (one order, tie in other)": 36,
+    "sft (both orders)": 82,
+    "sft (one order, tie in other)": 23,
+    "tie (both orders)": 55,
+    "strict_win_rate_excl_ties": 0.48427672955974843
+  },
+  "hh": {
+    "pairs": 300,
+    "two_order_win_rate_ties_half": 0.5083333333333333,
+    "orders_agree_on_winner": 0.6866666666666666,
+    "disagree (dpo vs sft flips with position)": 34,
+    "tie (both orders)": 51,
+    "sft (one order, tie in other)": 34,
+    "dpo (both orders)": 82,
+    "sft (both orders)": 73,
+    "dpo (one order, tie in other)": 26,
+    "strict_win_rate_excl_ties": 0.5290322580645161
+  },
+  "hh_by_category": {
+    "benign_helpfulness": 0.5416666666666666,
+    "privacy_and_doxxing": 0.6083333333333333,
+    "hate_or_harassment": 0.6083333333333333,
+    "medical_safety": 0.6666666666666666,
+    "harmful_instructions": 0.5916666666666667,
+    "safe_transformation": 0.3416666666666667,
+    "calibration_and_uncertainty": 0.575,
+    "legal_financial_safety": 0.225,
+    "cyber_abuse": 0.6666666666666666,
+    "self_harm_support": 0.25833333333333336
+  }
+}

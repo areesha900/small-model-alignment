@@ -1,0 +1,18 @@
+{
+  "label": "HH-RLHF DPO vs SFT (HH eval 300)",
+  "judge_model": "google/gemini-3.6-flash",
+  "n_pairs": 300,
+  "dpo_wins": 108,
+  "sft_wins": 111,
+  "ties": 81,
+  "unresolved": 0,
+  "win_rate_excl_ties": 0.4931506849315068,
+  "ci95_excl_ties": [
+    0.4276258412082956,
+    0.5589116814086663
+  ],
+  "win_rate_ties_half": 0.495,
+  "judge_picks_longer_response": 0.576036866359447,
+  "mean_words_dpo": 123.30333333333333,
+  "mean_words_sft": 133.43666666666667
+}

@@ -1,0 +1,15 @@
+{
+  "data": "data/persona_lora/ramsay_style_preferences.json",
+  "eval_prompts": "eval_sets/persona_style_eval_16.json",
+  "out_dir": "outputs/lora_dpo_default",
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "rank": 16,
+  "alpha": 32,
+  "dropout": 0.05,
+  "lr": 5e-05,
+  "beta": 0.1,
+  "epochs": 3,
+  "batch_size": 4,
+  "grad_accum": 4,
+  "seed": 42
+}

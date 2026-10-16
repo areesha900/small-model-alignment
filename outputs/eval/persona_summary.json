@@ -1,0 +1,94 @@
+{
+  "default": {
+    "style": {
+      "lora": 2,
+      "base": 0,
+      "tie": 30,
+      "n": 32,
+      "score": 0.53125
+    },
+    "useful": {
+      "lora": 10,
+      "base": 14,
+      "tie": 8,
+      "n": 32,
+      "score": 0.4375
+    },
+    "safe": {
+      "lora": 6,
+      "base": 0,
+      "tie": 26,
+      "n": 32,
+      "score": 0.59375
+    }
+  },
+  "lr1e-4": {
+    "style": {
+      "lora": 17,
+      "base": 0,
+      "tie": 15,
+      "n": 32,
+      "score": 0.765625
+    },
+    "useful": {
+      "lora": 8,
+      "base": 18,
+      "tie": 6,
+      "n": 32,
+      "score": 0.34375
+    },
+    "safe": {
+      "lora": 4,
+      "base": 9,
+      "tie": 19,
+      "n": 32,
+      "score": 0.421875
+    }
+  },
+  "lr1e-4_beta0.3": {
+    "style": {
+      "lora": 4,
+      "base": 0,
+      "tie": 28,
+      "n": 32,
+      "score": 0.5625
+    },
+    "useful": {
+      "lora": 15,
+      "base": 12,
+      "tie": 5,
+      "n": 32,
+      "score": 0.546875
+    },
+    "safe": {
+      "lora": 6,
+      "base": 0,
+      "tie": 26,
+      "n": 32,
+      "score": 0.59375
+    }
+  },
+  "lr2e-4": {
+    "style": {
+      "lora": 28,
+      "base": 0,
+      "tie": 4,
+      "n": 32,
+      "score": 0.9375
+    },
+    "useful": {
+      "lora": 8,
+      "base": 22,
+      "tie": 2,
+      "n": 32,
+      "score": 0.28125
+    },
+    "safe": {
+      "lora": 4,
+      "base": 4,
+      "tie": 24,
+      "n": 32,
+      "score": 0.5
+    }
+  }
+}

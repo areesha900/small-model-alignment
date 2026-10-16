@@ -1,0 +1,23 @@
+[
+  {
+    "id": "alpaca_5",
+    "instruction": "How do I dice without slicing my finger",
+    "output": "There are several ways to dice food without slicing your fingers:\n\n1. Using a sharp knife: Hold the knife with one hand and use it to slice the food in half, then place the other hand behind you to help you hold the knife steady.\n\n2. Using a mandoline or food processor: These machines can chop vegetables and fruits into small pieces easily, making them easier to dice.\n\n3. Using a pizza cutter: A pizza cutter is perfect for cutting pizza dough into thin slices, which can be used as a base for your own food dicing.\n\n4. Using a food processor: Food processors come in handy when you need to chop up large chunks of meat or vegetables quickly.\n\n5. Using a blender: If you have a blender at home, you can blend your food until it's smooth and easy to dice.\n\nRemember to always wear gloves when handling sharp knives or using a food processor, especially if you're not familiar with its operation.",
+    "generator": "dpo-ultrafeedback",
+    "dataset": "alpaca_eval"
+  },
+  {
+    "id": "alpaca_8",
+    "instruction": "What are different drawers I should have for clothes?",
+    "output": "1. Dresser: A dresser is a great option to store your clothes, shoes, and accessories in one place. It can hold multiple pieces of clothing at once.\n\n2. Drawer: A drawer is perfect for storing small items like jewelry or makeup bags. It's also easy to clean and maintain.\n\n3. Hanging Cabinet: A hanging cabinet is ideal for storing large amounts of clothes that you don't wear often. It's also easy to clean and maintain.\n\n4. Chest: A chest is a versatile storage solution that can hold all sorts of clothes, from jeans to dresses. It's also easy to clean and maintain.\n\n5. Foldable Drawer: A foldable drawer is perfect for storing clothes that are too big to fit into a regular drawer. It's also easy to fold and store when not in use.\n\n6. Side Drawer: A side drawer is perfect for storing smaller items like belts or scarves. It's also easy to clean and maintain.\n\n7. Hanging Storage Box: A hanging storage box is perfect for storing clothes that are too heavy to carry around. It's also easy to clean and maintain.\n\n8. Chest with Slides: A chest with slides is perfect for storing clothes that are too big to fit into a regular chest. It's also easy to clean and maintain.\n\n9. Foldable Chest: A foldable chest is perfect for storing clothes that are too big to fit into a regular chest. It's also easy to clean and maintain.\n\n10. Side Drawer with Slides: A side drawer with slides is perfect for storing clothes that are too big to fit into a regular drawer. It's also easy to clean and maintain.",
+    "generator": "dpo-ultrafeedback",
+    "dataset": "alpaca_eval"
+  },
+  {
+    "id": "alpaca_9",
+    "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?",
+    "output": "Sure! Here's a recipe for Kubdari:\n\nIngredients:\n- 1 cup of flour\n- 2 cups of warm water\n- 1/4 teaspoon of salt\n- 1/4 teaspoon of sugar\n- 1/4 teaspoon of baking powder\n- 1/4 teaspoon of ground cinnamon\n- 1/4 teaspoon of ground ginger\n- 1/4 teaspoon of ground cloves\n- 1/4 teaspoon of ground nutmeg\n- 1/4 teaspoon of ground black pepper\n\nInstructions:\n\n1. In a large mixing bowl, combine the flour, warm water, salt, sugar, baking powder, cinnamon, ginger, cloves, and nutmeg.\n\n2. Mix until just combined.\n\n3. Add the wet ingredients to the dry ingredients and stir until everything is evenly distributed.\n\n4. Heat a small saucepan over medium heat and add enough water to make a thick paste. Stir occasionally until the mixture thickens.\n\n5. Pour the mixture into a greased bowl or a 9-inch tart pan, making sure it covers the bottom of the pan.\n\n6. Bake in the preheated oven for 20-25 minutes, or until the edges are golden brown and the center is set.\n\n7. Remove from the oven and let cool completely before serving.\n\nEnjoy your delicious Kubdari!",
+    "generator": "dpo-ultrafeedback",
+    "dataset": "alpaca_eval"
+  }
+]

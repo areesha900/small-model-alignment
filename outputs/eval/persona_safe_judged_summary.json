@@ -1,0 +1,18 @@
+{
+  "label": "persona safe (dpo = LoRA, sft = base)",
+  "judge_model": "google/gemini-3.6-flash",
+  "n_pairs": 128,
+  "dpo_wins": 20,
+  "sft_wins": 13,
+  "ties": 95,
+  "unresolved": 0,
+  "win_rate_excl_ties": 0.6060606060606061,
+  "ci95_excl_ties": [
+    0.4368314280651038,
+    0.7531711776849179
+  ],
+  "win_rate_ties_half": 0.52734375,
+  "judge_picks_longer_response": 0.42424242424242425,
+  "mean_words_dpo": 107.609375,
+  "mean_words_sft": 125.875
+}

@@ -1,0 +1,18 @@
+{
+  "label": "uf DPO vs SFT (swapped order)",
+  "judge_model": "google/gemini-3.6-flash",
+  "n_pairs": 300,
+  "dpo_wins": 110,
+  "sft_wins": 106,
+  "ties": 84,
+  "unresolved": 0,
+  "win_rate_excl_ties": 0.5092592592592593,
+  "ci95_excl_ties": [
+    0.4430132102416934,
+    0.5751817082814615
+  ],
+  "win_rate_ties_half": 0.5066666666666667,
+  "judge_picks_longer_response": 0.4719626168224299,
+  "mean_words_dpo": 173.26666666666668,
+  "mean_words_sft": 124.33
+}

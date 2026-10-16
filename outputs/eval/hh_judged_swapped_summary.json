@@ -1,0 +1,18 @@
+{
+  "label": "hh DPO vs SFT (swapped order)",
+  "judge_model": "google/gemini-3.6-flash",
+  "n_pairs": 300,
+  "dpo_wins": 116,
+  "sft_wins": 103,
+  "ties": 81,
+  "unresolved": 0,
+  "win_rate_excl_ties": 0.5296803652968036,
+  "ci95_excl_ties": [
+    0.4636334953695853,
+    0.5947039066235793
+  ],
+  "win_rate_ties_half": 0.5216666666666666,
+  "judge_picks_longer_response": 0.5483870967741935,
+  "mean_words_dpo": 123.30333333333333,
+  "mean_words_sft": 133.43666666666667
+}

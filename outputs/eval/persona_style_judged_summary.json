@@ -1,0 +1,18 @@
+{
+  "label": "persona style (dpo = LoRA, sft = base)",
+  "judge_model": "google/gemini-3.6-flash",
+  "n_pairs": 128,
+  "dpo_wins": 51,
+  "sft_wins": 0,
+  "ties": 77,
+  "unresolved": 0,
+  "win_rate_excl_ties": 1.0,
+  "ci95_excl_ties": [
+    0.9299509861127319,
+    0.9999999999999999
+  ],
+  "win_rate_ties_half": 0.69921875,
+  "judge_picks_longer_response": 0.49019607843137253,
+  "mean_words_dpo": 107.609375,
+  "mean_words_sft": 125.875
+}

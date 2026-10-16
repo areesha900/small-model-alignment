@@ -1,0 +1,18 @@
+{
+  "label": "UltraFeedback DPO vs SFT (AlpacaEval 300)",
+  "judge_model": "google/gemini-3.6-flash",
+  "n_pairs": 300,
+  "dpo_wins": 107,
+  "sft_wins": 108,
+  "ties": 85,
+  "unresolved": 0,
+  "win_rate_excl_ties": 0.49767441860465117,
+  "ci95_excl_ties": [
+    0.4314697214722968,
+    0.5639607634080915
+  ],
+  "win_rate_ties_half": 0.49833333333333335,
+  "judge_picks_longer_response": 0.48826291079812206,
+  "mean_words_dpo": 173.26666666666668,
+  "mean_words_sft": 124.33
+}
